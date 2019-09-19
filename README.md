@@ -15,6 +15,7 @@ speeds with moderate requirements.
 1. Run the following commands :
 ```
 git clone https://github.com/EricBurnett/GameOfLife.git
+pip2 install pygame
 cd GameOfLife
 python2.6 life.py
 ```
@@ -26,6 +27,8 @@ Up/Down/Left/Right: Pan the viewport
 +/-: Speed up or slow down the rate of evolution
 
 PageDown/PageUp: Zoom in/out
+
+Control+q: Quit
 
 ## Credits
 
