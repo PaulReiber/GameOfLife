@@ -15,6 +15,7 @@ speeds with moderate requirements.
 1. Run the following commands :
 ```
 git clone https://github.com/EricBurnett/GameOfLife.git
+pip2 install pygame
 cd GameOfLife
 python2.6 life.py
 ```
